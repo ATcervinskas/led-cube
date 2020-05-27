@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_TurnAllOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_TurnAllOn" />
+
+    <Button
+        android:id="@+id/btn_Centre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Centre" />
+
+    <Button
+        android:id="@+id/btn_CircleAround"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_CircleAround" />
+
+    <Button
+        android:id="@+id/btn_Edges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Edges" />
+
+    <Button
+        android:id="@+id/btn_LayerByLayerDown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_LayerByLayerDown" />
+
+    <Button
+        android:id="@+id/btn_LayerByLayerUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_LayerByLayerUp" />
+
+    <Button
+        android:id="@+id/btn_LayerUpAndDown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_LayerUpAndDown" />
+
+    <Button
+        android:id="@+id/btn_InAndOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_InAndOut" />
+
+    <Button
+        android:id="@+id/btn_OneByOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_OneByOne" />
+
+    <Button
+        android:id="@+id/btn_TurnAllOff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_TurnAllOff" />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LedCubeApp</string>
+    <string name="menu_search_devices">Pridėti įrenginį</string>
+    <string name="menu_bluetooth_on">Įjungti bluetooth</string>
+    <string name="paired_devices">Susieti įrenginiai</string>
+    <string name="available_devices">Galimi įrenginiai</string>
+    <string name="menu_scan_devices">Ieškoti įrenginių</string>
+
+
+    <string name="btn_TurnAllOff">Išjungti</string>
+    <string name="btn_TurnAllOn">Įjungti</string>
+    <string name="btn_OneByOne">Vienas Paskui kitą</string>
+    <string name="btn_CircleAround">Apskritimas aplink</string>
+    <string name="btn_LayerByLayerUp">Aukštas po aukšto aukštyn</string>
+    <string name="btn_LayerByLayerDown">Aukštas po aukšto žemyn</string>
+    <string name="btn_LayerUpAndDown">Aukštas aukštyn žemyn</string>
+    <string name="btn_Edges">Šonai</string>
+    <string name="btn_Centre">Centras</string>
+    <string name="btn_InAndOut">Pirmyn atgal</string>
+
+
+
+
+
+
+</resources>
