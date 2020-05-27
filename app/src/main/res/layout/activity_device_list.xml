@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:text="@string/paired_devices"
-        android:textColor="@android:color/background_dark"
+        android:textColor="@android:color/tab_indicator_text"
+        android:textFontWeight="800"
         android:textSize="20sp" />
    <ListView
        android:id="@+id/list_paired_devices"
